@@ -1,1 +1,1 @@
-Meus projetos JS atuais de estudo, 
+Projeto GIT para testes  
